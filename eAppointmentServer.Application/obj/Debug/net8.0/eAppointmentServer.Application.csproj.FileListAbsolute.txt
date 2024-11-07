@@ -1,0 +1,15 @@
+C:\Users\berka\OneDrive\Masaüstü\eAppointment\eAppointmentServer.Application\bin\Debug\net8.0\eAppointmentServer.Application.deps.json
+C:\Users\berka\OneDrive\Masaüstü\eAppointment\eAppointmentServer.Application\bin\Debug\net8.0\eAppointmentServer.Application.dll
+C:\Users\berka\OneDrive\Masaüstü\eAppointment\eAppointmentServer.Application\bin\Debug\net8.0\eAppointmentServer.Application.pdb
+C:\Users\berka\OneDrive\Masaüstü\eAppointment\eAppointmentServer.Application\bin\Debug\net8.0\eAppointmentServer.Domain.dll
+C:\Users\berka\OneDrive\Masaüstü\eAppointment\eAppointmentServer.Application\bin\Debug\net8.0\eAppointmentServer.Domain.pdb
+C:\Users\berka\OneDrive\Masaüstü\eAppointment\eAppointmentServer.Application\obj\Debug\net8.0\eAppointmentServer.Application.csproj.AssemblyReference.cache
+C:\Users\berka\OneDrive\Masaüstü\eAppointment\eAppointmentServer.Application\obj\Debug\net8.0\eAppointmentServer.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berka\OneDrive\Masaüstü\eAppointment\eAppointmentServer.Application\obj\Debug\net8.0\eAppointmentServer.Application.AssemblyInfoInputs.cache
+C:\Users\berka\OneDrive\Masaüstü\eAppointment\eAppointmentServer.Application\obj\Debug\net8.0\eAppointmentServer.Application.AssemblyInfo.cs
+C:\Users\berka\OneDrive\Masaüstü\eAppointment\eAppointmentServer.Application\obj\Debug\net8.0\eAppointmentServer.Application.csproj.CoreCompileInputs.cache
+C:\Users\berka\OneDrive\Masaüstü\eAppointment\eAppointmentServer.Application\obj\Debug\net8.0\eAppoint.F26F487F.Up2Date
+C:\Users\berka\OneDrive\Masaüstü\eAppointment\eAppointmentServer.Application\obj\Debug\net8.0\eAppointmentServer.Application.dll
+C:\Users\berka\OneDrive\Masaüstü\eAppointment\eAppointmentServer.Application\obj\Debug\net8.0\refint\eAppointmentServer.Application.dll
+C:\Users\berka\OneDrive\Masaüstü\eAppointment\eAppointmentServer.Application\obj\Debug\net8.0\eAppointmentServer.Application.pdb
+C:\Users\berka\OneDrive\Masaüstü\eAppointment\eAppointmentServer.Application\obj\Debug\net8.0\ref\eAppointmentServer.Application.dll
